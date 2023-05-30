@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anamatavulj
-- 🌱 I’m currently studying Data Science with a concentration in Business Analytics, Econometrics, and Statistics. 
+- 🌱 I’m currently studying Data Science with a concentration in Business Analytics, Econometrics, and Statistics at UC San Diego. 
 - 📫 Reach me via my linkedin @ana-matavulj. 
 
 <!---
